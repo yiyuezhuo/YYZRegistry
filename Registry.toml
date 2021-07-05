@@ -1,0 +1,5 @@
+name = "YYZRegistry"
+uuid = "9912f57a-6282-41c4-b670-b403d7914e01"
+repo = "https://github.com/yiyuezhuo/YYZRegistry.git"
+
+[packages]
