@@ -1,0 +1,3 @@
+name = "PhysicalVectorsData"
+uuid = "a726fbc3-c738-4ce7-b537-27edbf17c83f"
+repo = "git+ssh://git@github.com/yiyuezhuo/PhysicalVectorsData.jl.git"

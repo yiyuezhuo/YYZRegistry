@@ -1,0 +1,3 @@
+name = "CoralSetup"
+uuid = "d2242d40-5c46-404c-a207-f3d6a3667631"
+repo = "git+ssh://git@github.com/yiyuezhuo/CoralSetup.jl.git"

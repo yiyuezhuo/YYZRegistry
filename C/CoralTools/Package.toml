@@ -1,0 +1,3 @@
+name = "CoralTools"
+uuid = "456b9c66-a11c-41ca-89fd-0ec2d9172aac"
+repo = "git+ssh://git@github.com/yiyuezhuo/CoralTools.jl.git"
