@@ -7,6 +7,7 @@ repo = "https://github.com/yiyuezhuo/YYZRegistry.git"
 4fa75a25-d952-42fa-ab2f-cd6b34c94ec2 = { name = "YPPL_Inference", path = "Y/YPPL_Inference" }
 52cbd3d6-767d-4c35-a6ca-8d7d1225d4b0 = { name = "EFDCLGT_LR_Files", path = "E/EFDCLGT_LR_Files" }
 54e4aa61-68be-4ac6-9fad-ed7868cad30c = { name = "YPPL_Parser", path = "Y/YPPL_Parser" }
+6383544f-2ca1-448d-b82b-4b3014e06bf4 = { name = "EFDCLGT_LR_Uncertainty", path = "E/EFDCLGT_LR_Uncertainty" }
 6aaf26a4-c633-11e8-35ae-8904cb805353 = { name = "Geodesics", path = "G/Geodesics" }
 8586373c-c82d-4ad1-8f52-73ab153c2be0 = { name = "EFDCLGT_LR_Runner", path = "E/EFDCLGT_LR_Runner" }
 889110da-db61-40bf-983e-4fb6a8ea23c7 = { name = "CoralData", path = "C/CoralData" }
