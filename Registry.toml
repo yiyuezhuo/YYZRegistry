@@ -3,6 +3,7 @@ uuid = "9912f57a-6282-41c4-b670-b403d7914e01"
 repo = "https://github.com/yiyuezhuo/YYZRegistry.git"
 
 [packages]
+29e7b70a-2656-403a-ac7f-b13d7a27cc98 = { name = "DateDataFrames", path = "D/DateDataFrames" }
 456b9c66-a11c-41ca-89fd-0ec2d9172aac = { name = "CoralTools", path = "C/CoralTools" }
 4fa75a25-d952-42fa-ab2f-cd6b34c94ec2 = { name = "YPPL_Inference", path = "Y/YPPL_Inference" }
 52cbd3d6-767d-4c35-a6ca-8d7d1225d4b0 = { name = "EFDCLGT_LR_Files", path = "E/EFDCLGT_LR_Files" }
