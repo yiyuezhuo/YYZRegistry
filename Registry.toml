@@ -8,11 +8,15 @@ repo = "https://github.com/yiyuezhuo/YYZRegistry.git"
 4fa75a25-d952-42fa-ab2f-cd6b34c94ec2 = { name = "YPPL_Inference", path = "Y/YPPL_Inference" }
 52cbd3d6-767d-4c35-a6ca-8d7d1225d4b0 = { name = "EFDCLGT_LR_Files", path = "E/EFDCLGT_LR_Files" }
 54e4aa61-68be-4ac6-9fad-ed7868cad30c = { name = "YPPL_Parser", path = "Y/YPPL_Parser" }
+5f2a63e8-a3ec-4214-9ca6-8735e59672fc = { name = "EFDCLGT_LR_Strategies", path = "E/EFDCLGT_LR_Strategies" }
 6383544f-2ca1-448d-b82b-4b3014e06bf4 = { name = "EFDCLGT_LR_Uncertainty", path = "E/EFDCLGT_LR_Uncertainty" }
 6aaf26a4-c633-11e8-35ae-8904cb805353 = { name = "Geodesics", path = "G/Geodesics" }
+7c77e40b-13d7-4629-86a2-6a465cc6d5ed = { name = "EFDCLGT_LR_Routes", path = "E/EFDCLGT_LR_Routes" }
 8586373c-c82d-4ad1-8f52-73ab153c2be0 = { name = "EFDCLGT_LR_Runner", path = "E/EFDCLGT_LR_Runner" }
 889110da-db61-40bf-983e-4fb6a8ea23c7 = { name = "CoralData", path = "C/CoralData" }
 a726fbc3-c738-4ce7-b537-27edbf17c83f = { name = "PhysicalVectorsData", path = "P/PhysicalVectorsData" }
+b3b2ddf9-dc0b-4864-9b12-8c67dbe8c040 = { name = "EFDCLGT_LR_Plots", path = "E/EFDCLGT_LR_Plots" }
+c8b3f7a2-d158-4491-9677-fd9ef642a754 = { name = "EFDCLGT_LR_Setup", path = "E/EFDCLGT_LR_Setup" }
 d2242d40-5c46-404c-a207-f3d6a3667631 = { name = "CoralSetup", path = "C/CoralSetup" }
 ece10b52-bc5d-5f9f-8b6e-cc9c6a4b5293 = { name = "KissThreading", path = "K/KissThreading" }
 f7755522-bb72-47e4-a4f1-ac7cf6a9e10b = { name = "YPPL_Diagnosis", path = "Y/YPPL_Diagnosis" }

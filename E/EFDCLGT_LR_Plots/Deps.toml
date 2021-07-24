@@ -1,0 +1,7 @@
+[0]
+EFDCLGT_LR_Files = "52cbd3d6-767d-4c35-a6ca-8d7d1225d4b0"
+EFDCLGT_LR_Routes = "7c77e40b-13d7-4629-86a2-6a465cc6d5ed"
+EFDCLGT_LR_Strategies = "5f2a63e8-a3ec-4214-9ca6-8735e59672fc"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+RecipesBase = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
